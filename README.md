@@ -11,8 +11,8 @@ The theme file is based on doom-miramare-theme.el from the doom-themes repositor
 ### doom-everforest-medium
 ![image](https://github.com/Echinoidea/doom-everforest/blob/master/screenshots/everforest-medium.png)
 
-### doom-everforest-hard
-![image](https://github.com/Echinoidea/doom-everforest/blob/master/screenshots/everforest-medium.png)
+### doom-everforest-soft
+![image](https://github.com/Echinoidea/doom-everforest/blob/master/screenshots/everforest-soft.png)
 
 # Installation
 clone the repository and copy the three .el files to your `$DOOMDIR/themes` (mine is `~/.config/doom/themes`)
